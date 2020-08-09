@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mardown-editor/static/css/main.ea7a5744.chunk.css",
+    "main.js": "/mardown-editor/static/js/main.17684974.chunk.js",
+    "main.js.map": "/mardown-editor/static/js/main.17684974.chunk.js.map",
+    "runtime-main.js": "/mardown-editor/static/js/runtime-main.6c3187e6.js",
+    "runtime-main.js.map": "/mardown-editor/static/js/runtime-main.6c3187e6.js.map",
+    "static/js/2.6e0be136.chunk.js": "/mardown-editor/static/js/2.6e0be136.chunk.js",
+    "static/js/2.6e0be136.chunk.js.map": "/mardown-editor/static/js/2.6e0be136.chunk.js.map",
+    "index.html": "/mardown-editor/index.html",
+    "precache-manifest.a2e7e259713c888ddf18c27abf0c34b0.js": "/mardown-editor/precache-manifest.a2e7e259713c888ddf18c27abf0c34b0.js",
+    "service-worker.js": "/mardown-editor/service-worker.js",
+    "static/css/main.ea7a5744.chunk.css.map": "/mardown-editor/static/css/main.ea7a5744.chunk.css.map",
+    "static/js/2.6e0be136.chunk.js.LICENSE.txt": "/mardown-editor/static/js/2.6e0be136.chunk.js.LICENSE.txt",
+    "static/media/home.png": "/mardown-editor/static/media/home.d53f2384.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c3187e6.js",
+    "static/js/2.6e0be136.chunk.js",
+    "static/css/main.ea7a5744.chunk.css",
+    "static/js/main.17684974.chunk.js"
+  ]
+}
