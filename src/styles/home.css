@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+.main_box{
+    display: flex;
+}
+
+.main_box {
+    text-transform: uppercase;
+    font-family: 'Itim', cursive;
+}
+
+.main_box span{
+    color:rgb(238, 9, 123);
+    font-size: 3rem;
+}
+
+.main_box h3{
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.right_box img{
+    height: 350px;
+    width: auto;
+}
